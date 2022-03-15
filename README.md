@@ -1,2 +1,1 @@
-# demo12
-For git practise
+This is an instruction Manual for project.
